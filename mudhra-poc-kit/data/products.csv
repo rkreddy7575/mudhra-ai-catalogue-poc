@@ -1,0 +1,300 @@
+code,category,source_page,name,description,material,capacity,colors,price_inr,image_path,data_status
+XG-EL-001,Electronics,25,,,,,,,,catalogue_ocr
+XG-EL-002,Electronics,25,,,,,,,,catalogue_ocr
+XG-EL-003,Electronics,25,,,,,,,,catalogue_ocr
+XG-EL-004,Electronics,25,,,,,,,,catalogue_ocr
+XG-EL-005,Electronics,25,,,,,,,,catalogue_ocr
+XG-EL-006,Electronics,25,,,,,,,,catalogue_ocr
+XG-EL-007,Electronics,26,,,,,,,,catalogue_ocr
+XG-EL-008,Electronics,26,,,,,,,,catalogue_ocr
+XG-EL-009,Electronics,26,,,,,,,,catalogue_ocr
+XG-EL-010,Electronics,26,,,,,,,,catalogue_ocr
+XG-EL-011,Electronics,26,,,,,,,,catalogue_ocr
+XG-EL-012,Electronics,26,,,,,,,,catalogue_ocr
+XG-EL-013,Electronics,27,,,,,,,,catalogue_ocr
+XG-EL-014,Electronics,27,,,,,,,,catalogue_ocr
+XG-EL-015,Electronics,27,,,,,,,,catalogue_ocr
+XG-EL-016,Electronics,27,,,,,,,,catalogue_ocr
+XG-EL-017,Electronics,27,,,,,,,,catalogue_ocr
+XG-EL-018,Electronics,27,,,,,,,,catalogue_ocr
+XG-EL-019,Electronics,28,,,,,,,,catalogue_ocr
+XG-EL-020,Electronics,28,,,,,,,,catalogue_ocr
+XG-EL-021,Electronics,28,,,,,,,,catalogue_ocr
+XG-EL-022,Electronics,28,,,,,,,,catalogue_ocr
+XG-EL-023,Electronics,28,,,,,,,,catalogue_ocr
+XG-EL-024,Electronics,28,,,,,,,,catalogue_ocr
+XG-EL-025,Electronics,29,,,,,,,,catalogue_ocr
+XG-EL-026,Electronics,29,,,,,,,,catalogue_ocr
+XG-EL-027,Electronics,29,,,,,,,,catalogue_ocr
+XG-EL-028,Electronics,29,,,,,,,,catalogue_ocr
+XG-EL-029,Electronics,29,,,,,,,,catalogue_ocr
+XG-EL-030,Electronics,29,,,,,,,,catalogue_ocr
+XG-EL-031,Electronics,30,,,,,,,,catalogue_ocr
+XG-EL-032,Electronics,30,,,,,,,,catalogue_ocr
+XG-EL-033,Electronics,30,,,,,,,,catalogue_ocr
+XG-EL-034,Electronics,30,,,,,,,,catalogue_ocr
+XG-EL-035,Electronics,30,,,,,,,,catalogue_ocr
+XG-EL-036,Electronics,30,,,,,,,,catalogue_ocr
+XG-EL-037,Electronics,31,,,,,,,,catalogue_ocr
+XG-EL-038,Electronics,31,,,,,,,,catalogue_ocr
+XG-EL-039,Electronics,31,,,,,,,,catalogue_ocr
+XG-EL-040,Electronics,31,,,,,,,,catalogue_ocr
+XG-EL-041,Electronics,31,,,,,,,,catalogue_ocr
+XG-EL-042,Electronics,31,,,,,,,,catalogue_ocr
+XG-EL-043,Electronics,32,,,,,,,,catalogue_ocr
+XG-EL-044,Electronics,32,,,,,,,,catalogue_ocr
+XG-GS-037,Gift Sets,56,,,,,,,,catalogue_ocr
+XG-GS-059,Gift Sets,61,,,,,,,,catalogue_ocr
+XG-GS-061,Gift Sets,62,,,,,,,,catalogue_ocr
+XG-GS-062,Gift Sets,62,,,,,,,,catalogue_ocr
+XG-GS-065,Gift Sets,62,,,,,,,,catalogue_ocr
+XG-GS-133,Gift Sets,74,,,,,,,,catalogue_ocr
+XG-GS-134,Gift Sets,75,,,,,,,,catalogue_ocr
+XG-GS-135,Gift Sets,75,,,,,,,,catalogue_ocr
+XG-GS-136,Gift Sets,75,,,,,,,,catalogue_ocr
+XG-GS-137,Gift Sets,75,,,,,,,,catalogue_ocr
+XG-GS-138,Gift Sets,75,,,,,,,,catalogue_ocr
+XG-GS-139,Gift Sets,75,,,,,,,,catalogue_ocr
+XG-GS-140,Gift Sets,76,,,,,,,,catalogue_ocr
+XG-GS-141,Gift Sets,76,,,,,,,,catalogue_ocr
+XG-GS-142,Gift Sets,76,,,,,,,,catalogue_ocr
+XG-GS-143,Gift Sets,76,,,,,,,,catalogue_ocr
+XG-GS-144,Gift Sets,76,,,,,,,,catalogue_ocr
+XG-GS-145,Gift Sets,76,,,,,,,,catalogue_ocr
+XG-GS-146,Gift Sets,77,,,,,,,,catalogue_ocr
+XG-GS-147,Gift Sets,77,,,,,,,,catalogue_ocr
+XG-GS-148,Gift Sets,77,,,,,,,,catalogue_ocr
+XG-GS-149,Gift Sets,77,,,,,,,,catalogue_ocr
+XG-GS-150,Gift Sets,77,,,,,,,,catalogue_ocr
+XG-GS-151,Gift Sets,77,,,,,,,,catalogue_ocr
+XG-GS-152,Gift Sets,78,,,,,,,,catalogue_ocr
+XG-GS-153,Gift Sets,78,,,,,,,,catalogue_ocr
+XG-GS-154,Gift Sets,78,,,,,,,,catalogue_ocr
+XG-GS-155,Gift Sets,78,,,,,,,,catalogue_ocr
+XG-GS-156,Gift Sets,78,,,,,,,,catalogue_ocr
+XG-GS-157,Gift Sets,78,,,,,,,,catalogue_ocr
+XG-GS-158,Gift Sets,79,,,,,,,,catalogue_ocr
+XG-GS-159,Gift Sets,79,,,,,,,,catalogue_ocr
+XG-GS-160,Gift Sets,79,,,,,,,,catalogue_ocr
+XG-GS-161,Gift Sets,79,,,,,,,,catalogue_ocr
+XG-GS-162,Gift Sets,79,,,,,,,,catalogue_ocr
+XG-GS-163,Gift Sets,79,,,,,,,,catalogue_ocr
+XG-ID-001,ID Card Holders,42,,,,,,,,catalogue_ocr
+XG-ID-003,ID Card Holders,42,,,,,,,,catalogue_ocr
+XG-ID-004,ID Card Holders,42,,,,,,,,catalogue_ocr
+XG-ID-005,ID Card Holders,42,,,,,,,,catalogue_ocr
+XG-ID-006,ID Card Holders,42,,,,,,,,catalogue_ocr
+XG-ID-007,ID Card Holders,43,,,,,,,,catalogue_ocr
+XG-ID-008,ID Card Holders,43,,,,,,,,catalogue_ocr
+XG-ID-009,ID Card Holders,43,,,,,,,,catalogue_ocr
+XG-ID-010,ID Card Holders,43,,,,,,,,catalogue_ocr
+XG-ID-011,ID Card Holders,43,,,,,,,,catalogue_ocr
+XG-ID-012,ID Card Holders,43,,,,,,,,catalogue_ocr
+XG-ID-014,ID Card Holders,44,,,,,,,,catalogue_ocr
+XG-ID-015,ID Card Holders,44,,,,,,,,catalogue_ocr
+XG-ID-016,ID Card Holders,44,,,,,,,,catalogue_ocr
+XG-ID-017,ID Card Holders,44,,,,,,,,catalogue_ocr
+XG-ID-018,ID Card Holders,44,,,,,,,,catalogue_ocr
+XG-ID-019,ID Card Holders,45,,,,,,,,catalogue_ocr
+XG-ID-020,ID Card Holders,45,,,,,,,,catalogue_ocr
+XG-ID-021,ID Card Holders,45,,,,,,,,catalogue_ocr
+XG-ID-022,ID Card Holders,45,,,,,,,,catalogue_ocr
+XG-ID-023,ID Card Holders,45,,,,,,,,catalogue_ocr
+XG-ID-024,ID Card Holders,45,,,,,,,,catalogue_ocr
+XG-ID-025,ID Card Holders,46,,,,,,,,catalogue_ocr
+XG-ID-026,ID Card Holders,46,,,,,,,,catalogue_ocr
+XG-ID-027,ID Card Holders,46,,,,,,,,catalogue_ocr
+XG-ID-028,ID Card Holders,46,,,,,,,,catalogue_ocr
+XG-ID-029,ID Card Holders,46,,,,,,,,catalogue_ocr
+XG-ID-030,ID Card Holders,46,,,,,,,,catalogue_ocr
+XG-ID-031,ID Card Holders,47,,,,,,,,catalogue_ocr
+XG-ID-032,ID Card Holders,47,,,,,,,,catalogue_ocr
+XG-ID-033,ID Card Holders,47,,,,,,,,catalogue_ocr
+XG-ID-034,ID Card Holders,47,,,,,,,,catalogue_ocr
+XG-ID-035,ID Card Holders,47,,,,,,,,catalogue_ocr
+XG-ID-036,ID Card Holders,47,,,,,,,,catalogue_ocr
+XG-ID-037,ID Card Holders,48,,,,,,,,catalogue_ocr
+XG-ID-038,ID Card Holders,48,,,,,,,,catalogue_ocr
+XG-ID-039,ID Card Holders,48,,,,,,,,catalogue_ocr
+XG-ID-040,ID Card Holders,48,,,,,,,,catalogue_ocr
+XG-ID-041,ID Card Holders,48,,,,,,,,catalogue_ocr
+XG-ID-042,ID Card Holders,48,,,,,,,,catalogue_ocr
+XG-ID-043,ID Card Holders,49,,,,,,,,catalogue_ocr
+XG-ID-044,ID Card Holders,49,,,,,,,,catalogue_ocr
+XG-ID-045,ID Card Holders,49,,,,,,,,catalogue_ocr
+XG-ID-046,ID Card Holders,49,,,,,,,,catalogue_ocr
+XG-ID-047,ID Card Holders,49,,,,,,,,catalogue_ocr
+XG-ID-048,ID Card Holders,49,,,,,,,,catalogue_ocr
+XG-MG-001,Mugs,17,,,,,,,,catalogue_ocr
+XG-MG-002,Mugs,17,,,,,,,,catalogue_ocr
+XG-MG-003,Mugs,17,,,,,,,,catalogue_ocr
+XG-MG-004,Mugs,17,,,,,,,,catalogue_ocr
+XG-MG-005,Mugs,17,,,,,,,,catalogue_ocr
+XG-MG-006,Mugs,17,,,,,,,,catalogue_ocr
+XG-MG-007,Mugs,18,,,,,,,,catalogue_ocr
+XG-MG-008,Mugs,18,,,,,,,,catalogue_ocr
+XG-MG-009,Mugs,18,,,,,,,,catalogue_ocr
+XG-MG-010,Mugs,18,,,,,,,,catalogue_ocr
+XG-MG-011,Mugs,18,,,,,,,,catalogue_ocr
+XG-MG-012,Mugs,18,,,,,,,,catalogue_ocr
+XG-MG-014,Mugs,19,,,,,,,,catalogue_ocr
+XG-MG-015,Mugs,19,,,,,,,,catalogue_ocr
+XG-MG-016,Mugs,19,,,,,,,,catalogue_ocr
+XG-MG-017,Mugs,19,,,,,,,,catalogue_ocr
+XG-MG-018,Mugs,19,,,,,,,,catalogue_ocr
+XG-MG-019,Mugs,20,,,,,,,,catalogue_ocr
+XG-MG-020,Mugs,20,,,,,,,,catalogue_ocr
+XG-MG-021,Mugs,20,,,,,,,,catalogue_ocr
+XG-MG-022,Mugs,20,,,,,,,,catalogue_ocr
+XG-MG-023,Mugs,20,,,,,,,,catalogue_ocr
+XG-MG-024,Mugs,20,,,,,,,,catalogue_ocr
+XG-MG-025,Mugs,21,,,,,,,,catalogue_ocr
+XG-MG-026,Mugs,21,,,,,,,,catalogue_ocr
+XG-MG-027,Mugs,21,,,,,,,,catalogue_ocr
+XG-MG-028,Mugs,21,,,,,,,,catalogue_ocr
+XG-MG-029,Mugs,21,,,,,,,,catalogue_ocr
+XG-MG-030,Mugs,21,,,,,,,,catalogue_ocr
+XG-MG-031,Mugs,22,,,,,,,,catalogue_ocr
+XG-MG-032,Mugs,22,,,,,,,,catalogue_ocr
+XG-MG-033,Mugs,22,,,,,,,,catalogue_ocr
+XG-MG-034,Mugs,22,,,,,,,,catalogue_ocr
+XG-MG-035,Mugs,22,,,,,,,,catalogue_ocr
+XG-MG-036,Mugs,22,,,,,,,,catalogue_ocr
+XG-MG-037,Mugs,23,,,,,,,,catalogue_ocr
+XG-MG-038,Mugs,23,,,,,,,,catalogue_ocr
+XG-MG-039,Mugs,23,,,,,,,,catalogue_ocr
+XG-MG-040,Mugs,23,,,,,,,,catalogue_ocr
+XG-MG-041,Mugs,23,,,,,,,,catalogue_ocr
+XG-MG-042,Mugs,23,,,,,,,,catalogue_ocr
+XG-MG-044,Mugs,24,,,,,,,,catalogue_ocr
+XG-MG-045,Mugs,24,,,,,,,,catalogue_ocr
+XG-MG-046,Mugs,24,,,,,,,,catalogue_ocr
+XG-MG-048,Mugs,24,,,,,,,,catalogue_ocr
+XG-NB-001,Notebooks,37,,,,,,,,catalogue_ocr
+XG-NB-002,Notebooks,37,,,,,,,,catalogue_ocr
+XG-NB-003,Notebooks,37,,,,,,,,catalogue_ocr
+XG-NB-004,Notebooks,37,,,,,,,,catalogue_ocr
+XG-NB-005,Notebooks,37,,,,,,,,catalogue_ocr
+XG-NB-006,Notebooks,37,,,,,,,,catalogue_ocr
+XG-NB-007,Notebooks,38,,,,,,,,catalogue_ocr
+XG-NB-008,Notebooks,38,,,,,,,,catalogue_ocr
+XG-NB-009,Notebooks,38,,,,,,,,catalogue_ocr
+XG-NB-010,Notebooks,38,,,,,,,,catalogue_ocr
+XG-NB-011,Notebooks,38,,,,,,,,catalogue_ocr
+XG-NB-012,Notebooks,38,,,,,,,,catalogue_ocr
+XG-NB-013,Notebooks,39,,,,,,,,catalogue_ocr
+XG-NB-014,Notebooks,39,,,,,,,,catalogue_ocr
+XG-NB-015,Notebooks,39,,,,,,,,catalogue_ocr
+XG-NB-016,Notebooks,39,,,,,,,,catalogue_ocr
+XG-NB-017,Notebooks,39,,,,,,,,catalogue_ocr
+XG-NB-018,Notebooks,39,,,,,,,,catalogue_ocr
+XG-NB-019,Notebooks,40,,,,,,,,catalogue_ocr
+XG-NB-020,Notebooks,40,,,,,,,,catalogue_ocr
+XG-NB-021,Notebooks,40,,,,,,,,catalogue_ocr
+XG-NB-022,Notebooks,40,,,,,,,,catalogue_ocr
+XG-NB-023,Notebooks,40,,,,,,,,catalogue_ocr
+XG-NB-024,Notebooks,40,,,,,,,,catalogue_ocr
+XG-NB-025,Notebooks,41,,,,,,,,catalogue_ocr
+XG-NB-026,Notebooks,41,,,,,,,,catalogue_ocr
+XG-MP-001,Pens,33,,,,,,,,catalogue_ocr
+XG-MP-003,Pens,33,,,,,,,,catalogue_ocr
+XG-MP-004,Pens,33,,,,,,,,catalogue_ocr
+XG-MP-005,Pens,33,,,,,,,,catalogue_ocr
+XG-MP-006,Pens,33,,,,,,,,catalogue_ocr
+XG-MP-007,Pens,34,,,,,,,,catalogue_ocr
+XG-MP-009,Pens,34,,,,,,,,catalogue_ocr
+XG-MP-010,Pens,34,,,,,,,,catalogue_ocr
+XG-MP-011,Pens,34,,,,,,,,catalogue_ocr
+XG-MP-012,Pens,34,,,,,,,,catalogue_ocr
+XG-MP-013,Pens,35,,,,,,,,catalogue_ocr
+XG-MP-015,Pens,35,,,,,,,,catalogue_ocr
+XG-MP-016,Pens,35,,,,,,,,catalogue_ocr
+XG-MP-017,Pens,35,,,,,,,,catalogue_ocr
+XG-MP-018,Pens,35,,,,,,,,catalogue_ocr
+XG-MP-019,Pens,36,,,,,,,,catalogue_ocr
+XG-MP-020,Pens,36,,,,,,,,catalogue_ocr
+XG-MP-021,Pens,36,,,,,,,,catalogue_ocr
+XG-BT-001,Water Bottles,3,,,,,,,,catalogue_ocr
+XG-BT-002,Water Bottles,3,,,,,,,,catalogue_ocr
+XG-BT-003,Water Bottles,3,,,,,,,,catalogue_ocr
+XG-BT-004,Water Bottles,3,,,,,,,,catalogue_ocr
+XG-BT-005,Water Bottles,3,,,,,,,,catalogue_ocr
+XG-BT-006,Water Bottles,3,,,,,,,,catalogue_ocr
+XG-BT-007,Water Bottles,4,,,,,,,,catalogue_ocr
+XG-BT-008,Water Bottles,4,,,,,,,,catalogue_ocr
+XG-BT-009,Water Bottles,4,,,,,,,,catalogue_ocr
+XG-BT-010,Water Bottles,4,,,,,,,,catalogue_ocr
+XG-BT-011,Water Bottles,4,,,,,,,,catalogue_ocr
+XG-BT-012,Water Bottles,4,,,,,,,,catalogue_ocr
+XG-BT-013,Water Bottles,5,,,,,,,,catalogue_ocr
+XG-BT-014,Water Bottles,5,,,,,,,,catalogue_ocr
+XG-BT-015,Water Bottles,5,,,,,,,,catalogue_ocr
+XG-BT-016,Water Bottles,5,,,,,,,,catalogue_ocr
+XG-BT-017,Water Bottles,5,,,,,,,,catalogue_ocr
+XG-BT-018,Water Bottles,5,,,,,,,,catalogue_ocr
+XG-BT-019,Water Bottles,6,,,,,,,,catalogue_ocr
+XG-BT-020,Water Bottles,6,,,,,,,,catalogue_ocr
+XG-BT-021,Water Bottles,6,,,,,,,,catalogue_ocr
+XG-BT-022,Water Bottles,6,,,,,,,,catalogue_ocr
+XG-BT-023,Water Bottles,6,,,,,,,,catalogue_ocr
+XG-BT-024,Water Bottles,6,,,,,,,,catalogue_ocr
+XG-BT-031,Water Bottles,7,,,,,,,,catalogue_ocr
+XG-BT-032,Water Bottles,7,,,,,,,,catalogue_ocr
+XG-BT-033,Water Bottles,7,,,,,,,,catalogue_ocr
+XG-BT-034,Water Bottles,7,,,,,,,,catalogue_ocr
+XG-BT-035,Water Bottles,7,,,,,,,,catalogue_ocr
+XG-BT-036,Water Bottles,7,,,,,,,,catalogue_ocr
+XG-BT-037,Water Bottles,8,,,,,,,,catalogue_ocr
+XG-BT-038,Water Bottles,8,,,,,,,,catalogue_ocr
+XG-BT-039,Water Bottles,8,,,,,,,,catalogue_ocr
+XG-BT-040,Water Bottles,8,,,,,,,,catalogue_ocr
+XG-BT-041,Water Bottles,8,,,,,,,,catalogue_ocr
+XG-BT-042,Water Bottles,8,,,,,,,,catalogue_ocr
+XG-BT-043,Water Bottles,9,,,,,,,,catalogue_ocr
+XG-BT-044,Water Bottles,9,,,,,,,,catalogue_ocr
+XG-BT-045,Water Bottles,9,,,,,,,,catalogue_ocr
+XG-BT-046,Water Bottles,9,,,,,,,,catalogue_ocr
+XG-BT-047,Water Bottles,9,,,,,,,,catalogue_ocr
+XG-BT-048,Water Bottles,9,,,,,,,,catalogue_ocr
+XG-BT-049,Water Bottles,10,,,,,,,,catalogue_ocr
+XG-BT-050,Water Bottles,10,,,,,,,,catalogue_ocr
+XG-BT-051,Water Bottles,10,,,,,,,,catalogue_ocr
+XG-BT-052,Water Bottles,10,,,,,,,,catalogue_ocr
+XG-BT-053,Water Bottles,10,,,,,,,,catalogue_ocr
+XG-BT-054,Water Bottles,10,,,,,,,,catalogue_ocr
+XG-BT-055,Water Bottles,11,,,,,,,,catalogue_ocr
+XG-BT-056,Water Bottles,11,,,,,,,,catalogue_ocr
+XG-BT-057,Water Bottles,11,,,,,,,,catalogue_ocr
+XG-BT-058,Water Bottles,11,,,,,,,,catalogue_ocr
+XG-BT-059,Water Bottles,11,,,,,,,,catalogue_ocr
+XG-BT-060,Water Bottles,11,,,,,,,,catalogue_ocr
+XG-BT-061,Water Bottles,12,,,,,,,,catalogue_ocr
+XG-BT-062,Water Bottles,12,,,,,,,,catalogue_ocr
+XG-BT-063,Water Bottles,12,,,,,,,,catalogue_ocr
+XG-BT-064,Water Bottles,12,,,,,,,,catalogue_ocr
+XG-BT-065,Water Bottles,12,,,,,,,,catalogue_ocr
+XG-BT-066,Water Bottles,12,,,,,,,,catalogue_ocr
+XG-BT-067,Water Bottles,13,,,,,,,,catalogue_ocr
+XG-BT-068,Water Bottles,13,,,,,,,,catalogue_ocr
+XG-BT-069,Water Bottles,13,,,,,,,,catalogue_ocr
+XG-BT-070,Water Bottles,13,,,,,,,,catalogue_ocr
+XG-BT-071,Water Bottles,13,,,,,,,,catalogue_ocr
+XG-BT-072,Water Bottles,13,,,,,,,,catalogue_ocr
+XG-BT-073,Water Bottles,14,,,,,,,,catalogue_ocr
+XG-BT-074,Water Bottles,14,,,,,,,,catalogue_ocr
+XG-BT-075,Water Bottles,14,,,,,,,,catalogue_ocr
+XG-BT-076,Water Bottles,14,,,,,,,,catalogue_ocr
+XG-BT-077,Water Bottles,14,,,,,,,,catalogue_ocr
+XG-BT-078,Water Bottles,14,,,,,,,,catalogue_ocr
+XG-BT-079,Water Bottles,15,,,,,,,,catalogue_ocr
+XG-BT-080,Water Bottles,15,,,,,,,,catalogue_ocr
+XG-BT-081,Water Bottles,15,,,,,,,,catalogue_ocr
+XG-BT-082,Water Bottles,15,,,,,,,,catalogue_ocr
+XG-BT-083,Water Bottles,15,,,,,,,,catalogue_ocr
+XG-BT-084,Water Bottles,15,,,,,,,,catalogue_ocr
+XG-BT-085,Water Bottles,16,,,,,,,,catalogue_ocr
+XG-BT-086,Water Bottles,16,,,,,,,,catalogue_ocr
+XG-BT-087,Water Bottles,16,,,,,,,,catalogue_ocr
+XG-BT-088,Water Bottles,16,,,,,,,,catalogue_ocr
+XG-BT-089,Water Bottles,16,,,,,,,,catalogue_ocr
+XG-BT-123,Water Bottles,73,,,,,,,,catalogue_ocr

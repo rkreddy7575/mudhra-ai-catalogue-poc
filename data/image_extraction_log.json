@@ -1,0 +1,1796 @@
+[
+  {
+    "code": "XG-BT-001",
+    "source_page": 3,
+    "region": "top-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-002",
+    "source_page": 3,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-003",
+    "source_page": 3,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-004",
+    "source_page": 3,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-005",
+    "source_page": 3,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-006",
+    "source_page": 3,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-007",
+    "source_page": 4,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-008",
+    "source_page": 4,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-009",
+    "source_page": 4,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-010",
+    "source_page": 4,
+    "region": "bottom",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-011",
+    "source_page": 4,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-012",
+    "source_page": 4,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-013",
+    "source_page": 5,
+    "region": "top-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-014",
+    "source_page": 5,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-015",
+    "source_page": 5,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-016",
+    "source_page": 5,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-017",
+    "source_page": 5,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-018",
+    "source_page": 5,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-019",
+    "source_page": 6,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-020",
+    "source_page": 6,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-021",
+    "source_page": 6,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-022",
+    "source_page": 6,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-023",
+    "source_page": 6,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-024",
+    "source_page": 6,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-031",
+    "source_page": 7,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-032",
+    "source_page": 7,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-033",
+    "source_page": 7,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-034",
+    "source_page": 7,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-035",
+    "source_page": 7,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-036",
+    "source_page": 7,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-037",
+    "source_page": 8,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-038",
+    "source_page": 8,
+    "region": "bottom",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-039",
+    "source_page": 8,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-040",
+    "source_page": 8,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-041",
+    "source_page": 8,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-042",
+    "source_page": 8,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-043",
+    "source_page": 9,
+    "region": "top-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-044",
+    "source_page": 9,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-045",
+    "source_page": 9,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-046",
+    "source_page": 9,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-047",
+    "source_page": 9,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-048",
+    "source_page": 9,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-049",
+    "source_page": 10,
+    "region": "top-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-050",
+    "source_page": 10,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-051",
+    "source_page": 10,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-052",
+    "source_page": 10,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-053",
+    "source_page": 10,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-054",
+    "source_page": 10,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-055",
+    "source_page": 11,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-056",
+    "source_page": 11,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-057",
+    "source_page": 11,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-058",
+    "source_page": 11,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-059",
+    "source_page": 11,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-060",
+    "source_page": 11,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-061",
+    "source_page": 12,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-062",
+    "source_page": 12,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-063",
+    "source_page": 12,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-064",
+    "source_page": 12,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-065",
+    "source_page": 12,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-066",
+    "source_page": 12,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-067",
+    "source_page": 13,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-068",
+    "source_page": 13,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-069",
+    "source_page": 13,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-070",
+    "source_page": 13,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-071",
+    "source_page": 13,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-072",
+    "source_page": 13,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-073",
+    "source_page": 14,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-074",
+    "source_page": 14,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-075",
+    "source_page": 14,
+    "region": "middle",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-076",
+    "source_page": 14,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-077",
+    "source_page": 14,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-078",
+    "source_page": 14,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-079",
+    "source_page": 15,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-080",
+    "source_page": 15,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-081",
+    "source_page": 15,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-082",
+    "source_page": 15,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-083",
+    "source_page": 15,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-084",
+    "source_page": 15,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-085",
+    "source_page": 16,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-086",
+    "source_page": 16,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-087",
+    "source_page": 16,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-088",
+    "source_page": 16,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-089",
+    "source_page": 16,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-001",
+    "source_page": 17,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-002",
+    "source_page": 17,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-003",
+    "source_page": 17,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-004",
+    "source_page": 17,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-005",
+    "source_page": 17,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-006",
+    "source_page": 17,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-007",
+    "source_page": 18,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-008",
+    "source_page": 18,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-009",
+    "source_page": 18,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-010",
+    "source_page": 18,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-011",
+    "source_page": 18,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-012",
+    "source_page": 18,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-014",
+    "source_page": 19,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-015",
+    "source_page": 19,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-016",
+    "source_page": 19,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-017",
+    "source_page": 19,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-018",
+    "source_page": 19,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-019",
+    "source_page": 20,
+    "region": "top-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-020",
+    "source_page": 20,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-021",
+    "source_page": 20,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-022",
+    "source_page": 20,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-023",
+    "source_page": 20,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-024",
+    "source_page": 20,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-025",
+    "source_page": 21,
+    "region": "top-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-026",
+    "source_page": 21,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-027",
+    "source_page": 21,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-028",
+    "source_page": 21,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-029",
+    "source_page": 21,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-030",
+    "source_page": 21,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-031",
+    "source_page": 22,
+    "region": "top-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-032",
+    "source_page": 22,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-033",
+    "source_page": 22,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-034",
+    "source_page": 22,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-035",
+    "source_page": 22,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-036",
+    "source_page": 22,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-037",
+    "source_page": 23,
+    "region": "top-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-038",
+    "source_page": 23,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-039",
+    "source_page": 23,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-040",
+    "source_page": 23,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-041",
+    "source_page": 23,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-042",
+    "source_page": 23,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-044",
+    "source_page": 24,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-045",
+    "source_page": 24,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-046",
+    "source_page": 24,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MG-048",
+    "source_page": 24,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-001",
+    "source_page": 25,
+    "region": "top-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-002",
+    "source_page": 25,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-003",
+    "source_page": 25,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-004",
+    "source_page": 25,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-005",
+    "source_page": 25,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-006",
+    "source_page": 25,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-007",
+    "source_page": 26,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-008",
+    "source_page": 26,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-009",
+    "source_page": 26,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-010",
+    "source_page": 26,
+    "region": "bottom",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-011",
+    "source_page": 26,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-012",
+    "source_page": 26,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-013",
+    "source_page": 27,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-014",
+    "source_page": 27,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-015",
+    "source_page": 27,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-016",
+    "source_page": 27,
+    "region": "bottom",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-017",
+    "source_page": 27,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-018",
+    "source_page": 27,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-019",
+    "source_page": 28,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-020",
+    "source_page": 28,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-021",
+    "source_page": 28,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-022",
+    "source_page": 28,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-023",
+    "source_page": 28,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-024",
+    "source_page": 28,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-025",
+    "source_page": 29,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-026",
+    "source_page": 29,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-027",
+    "source_page": 29,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-028",
+    "source_page": 29,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-029",
+    "source_page": 29,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-030",
+    "source_page": 29,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-031",
+    "source_page": 30,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-032",
+    "source_page": 30,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-033",
+    "source_page": 30,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-034",
+    "source_page": 30,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-035",
+    "source_page": 30,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-036",
+    "source_page": 30,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-037",
+    "source_page": 31,
+    "region": "top-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-038",
+    "source_page": 31,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-039",
+    "source_page": 31,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-040",
+    "source_page": 31,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-041",
+    "source_page": 31,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-042",
+    "source_page": 31,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-043",
+    "source_page": 32,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-EL-044",
+    "source_page": 32,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-001",
+    "source_page": 33,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-003",
+    "source_page": 33,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-004",
+    "source_page": 33,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-005",
+    "source_page": 33,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-006",
+    "source_page": 33,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-007",
+    "source_page": 34,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-009",
+    "source_page": 34,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-010",
+    "source_page": 34,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-011",
+    "source_page": 34,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-012",
+    "source_page": 34,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-013",
+    "source_page": 35,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-015",
+    "source_page": 35,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-016",
+    "source_page": 35,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-017",
+    "source_page": 35,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-018",
+    "source_page": 35,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-019",
+    "source_page": 36,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-020",
+    "source_page": 36,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-MP-021",
+    "source_page": 36,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-001",
+    "source_page": 37,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-002",
+    "source_page": 37,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-003",
+    "source_page": 37,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-004",
+    "source_page": 37,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-005",
+    "source_page": 37,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-006",
+    "source_page": 37,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-007",
+    "source_page": 38,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-008",
+    "source_page": 38,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-009",
+    "source_page": 38,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-010",
+    "source_page": 38,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-011",
+    "source_page": 38,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-012",
+    "source_page": 38,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-013",
+    "source_page": 39,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-014",
+    "source_page": 39,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-015",
+    "source_page": 39,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-016",
+    "source_page": 39,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-017",
+    "source_page": 39,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-018",
+    "source_page": 39,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-019",
+    "source_page": 40,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-020",
+    "source_page": 40,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-021",
+    "source_page": 40,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-022",
+    "source_page": 40,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-023",
+    "source_page": 40,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-024",
+    "source_page": 40,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-025",
+    "source_page": 41,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-NB-026",
+    "source_page": 41,
+    "region": "full-page-fallback",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-001",
+    "source_page": 42,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-003",
+    "source_page": 42,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-004",
+    "source_page": 42,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-005",
+    "source_page": 42,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-006",
+    "source_page": 42,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-007",
+    "source_page": 43,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-008",
+    "source_page": 43,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-009",
+    "source_page": 43,
+    "region": "left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-010",
+    "source_page": 43,
+    "region": "right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-011",
+    "source_page": 43,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-012",
+    "source_page": 43,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-014",
+    "source_page": 44,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-015",
+    "source_page": 44,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-016",
+    "source_page": 44,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-017",
+    "source_page": 44,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-018",
+    "source_page": 44,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-019",
+    "source_page": 45,
+    "region": "top-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-020",
+    "source_page": 45,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-021",
+    "source_page": 45,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-022",
+    "source_page": 45,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-023",
+    "source_page": 45,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-024",
+    "source_page": 45,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-025",
+    "source_page": 46,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-026",
+    "source_page": 46,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-027",
+    "source_page": 46,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-028",
+    "source_page": 46,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-029",
+    "source_page": 46,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-030",
+    "source_page": 46,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-031",
+    "source_page": 47,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-032",
+    "source_page": 47,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-033",
+    "source_page": 47,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-034",
+    "source_page": 47,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-035",
+    "source_page": 47,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-036",
+    "source_page": 47,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-037",
+    "source_page": 48,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-038",
+    "source_page": 48,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-039",
+    "source_page": 48,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-040",
+    "source_page": 48,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-041",
+    "source_page": 48,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-042",
+    "source_page": 48,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-043",
+    "source_page": 49,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-044",
+    "source_page": 49,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-045",
+    "source_page": 49,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-046",
+    "source_page": 49,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-047",
+    "source_page": 49,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-ID-048",
+    "source_page": 49,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-037",
+    "source_page": 56,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-059",
+    "source_page": 61,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-061",
+    "source_page": 62,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-062",
+    "source_page": 62,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-065",
+    "source_page": 62,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-BT-123",
+    "source_page": 73,
+    "region": "top-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-133",
+    "source_page": 74,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-134",
+    "source_page": 75,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-135",
+    "source_page": 75,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-136",
+    "source_page": 75,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-137",
+    "source_page": 75,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-138",
+    "source_page": 75,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-139",
+    "source_page": 75,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-140",
+    "source_page": 76,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-141",
+    "source_page": 76,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-142",
+    "source_page": 76,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-143",
+    "source_page": 76,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-144",
+    "source_page": 76,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-145",
+    "source_page": 76,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-146",
+    "source_page": 77,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-147",
+    "source_page": 77,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-148",
+    "source_page": 77,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-149",
+    "source_page": 77,
+    "region": "bottom",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-150",
+    "source_page": 77,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-151",
+    "source_page": 77,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-152",
+    "source_page": 78,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-153",
+    "source_page": 78,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-154",
+    "source_page": 78,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-155",
+    "source_page": 78,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-156",
+    "source_page": 78,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-157",
+    "source_page": 78,
+    "region": "bottom-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-158",
+    "source_page": 79,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-159",
+    "source_page": 79,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-160",
+    "source_page": 79,
+    "region": "middle-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-161",
+    "source_page": 79,
+    "region": "middle-right",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-162",
+    "source_page": 79,
+    "region": "bottom-left",
+    "status": "ok"
+  },
+  {
+    "code": "XG-GS-163",
+    "source_page": 79,
+    "region": "bottom-right",
+    "status": "ok"
+  }
+]

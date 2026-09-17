@@ -1,0 +1,4105 @@
+{
+  "3": [
+    {
+      "code": "XG-BT-001",
+      "name": null,
+      "material": "steel",
+      "capacity": "750 ml",
+      "colors": [
+        "silver",
+        "Black",
+        "blue",
+        "red"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-002",
+      "name": null,
+      "material": "stainless steel",
+      "capacity": "750 ml",
+      "colors": [
+        "BLACK",
+        "WHITE",
+        "SILVER",
+        "RED",
+        "BLUE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-003",
+      "name": null,
+      "material": "ALUMINIUM",
+      "capacity": "750 ml",
+      "colors": [
+        "Black",
+        "white",
+        "red",
+        "gray"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-004",
+      "name": null,
+      "material": "ALUMINIUM",
+      "capacity": "750 ml",
+      "colors": [
+        "BLUE",
+        "RED",
+        "BLACK"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-005",
+      "name": null,
+      "material": "Aluminium metal bottle",
+      "capacity": "750 ml",
+      "colors": [
+        "BLUE",
+        "RED",
+        "BLACK",
+        "SILVER & WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-006",
+      "name": null,
+      "material": "ALUMINIUM METAL BOTTLE",
+      "capacity": "750 ml",
+      "colors": [
+        "MATT BLACK",
+        "WHITE",
+        "BLUE & RED"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "4": [
+    {
+      "code": "XG-BT-007",
+      "name": null,
+      "material": "STAINLESS STEEL",
+      "capacity": "1000 ml",
+      "colors": [
+        "SILVER"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-008",
+      "name": null,
+      "material": "ALUMINIUM METAL BOTTLE with silicon cap",
+      "capacity": "750 ml",
+      "colors": [
+        "BLACK WITH LID BLUE",
+        "ORANGE",
+        "RED",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-009",
+      "name": null,
+      "material": "HIGH GRADE STAINLESS STEEL BOTTLE",
+      "capacity": "750 ml",
+      "colors": [
+        "BLACK",
+        "RED",
+        "BLUE",
+        "SILVER",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-010",
+      "name": null,
+      "material": "stainless steel bottle with handle",
+      "capacity": "750 ml",
+      "colors": [
+        "MATT BLACK",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-center",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-011",
+      "name": null,
+      "material": "high grade stainless steel",
+      "capacity": "750ml",
+      "colors": [
+        "MATT BLACK",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-012",
+      "name": null,
+      "material": "HIGH GRADE STEEL BOTTLE",
+      "capacity": "750 ml",
+      "colors": [
+        "MATT BLACK",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "5": [
+    {
+      "code": "XG-BT-013",
+      "name": null,
+      "material": "High Quality stainless steel with string",
+      "capacity": "750 ml",
+      "colors": [
+        "RED",
+        "BLUE",
+        "BLACK"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-014",
+      "name": null,
+      "material": "High quality stainless steel",
+      "capacity": "750 ml",
+      "colors": [
+        "MATT - BLACK",
+        "RED",
+        "BLUE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-015",
+      "name": null,
+      "material": "High quality stainless steel",
+      "capacity": "750 ml",
+      "colors": [
+        "MATT - BLACK",
+        "RED",
+        "BLUE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-016",
+      "name": null,
+      "material": "High quality stainless steel",
+      "capacity": "900 ml",
+      "colors": [
+        "WHITE",
+        "BLACK"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-017",
+      "name": null,
+      "material": "HIGH GRADE STEEL WATER BOTTLE",
+      "capacity": "1000 ml",
+      "colors": [
+        "SILVER"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-018",
+      "name": null,
+      "material": "HIGH GRADE STEEL BOTTLE",
+      "capacity": "750 ml",
+      "colors": [
+        "MATT BLACK",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "6": [
+    {
+      "code": "XG-BT-019",
+      "name": null,
+      "material": "High quality stainless steel",
+      "capacity": "750 ml.",
+      "colors": [
+        "MATT - BLACK",
+        "RED",
+        "BLUE"
+      ],
+      "description": "Break proof & leak proof",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-020",
+      "name": null,
+      "material": "High quality stainless steel with bamboo lid",
+      "capacity": "750 ml",
+      "colors": [
+        "MATT BLACK",
+        "WHITE"
+      ],
+      "description": "Break proof & leak proof",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-021",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-022",
+      "name": null,
+      "material": "stainless steel",
+      "capacity": "1000 ml",
+      "colors": [
+        "matt black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-023",
+      "name": null,
+      "material": "HIGH GRADE STEEL WATER BOTTLE",
+      "capacity": null,
+      "colors": [
+        "SILVER"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-024",
+      "name": null,
+      "material": "stainless steel",
+      "capacity": "1000 ml",
+      "colors": [
+        "SILVER"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "7": [
+    {
+      "code": "XG-BT-031",
+      "name": null,
+      "material": "Vacuum hot & cold",
+      "capacity": "500 ml",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-032",
+      "name": null,
+      "material": "VACUUM HOT & COLD",
+      "capacity": "500 ml",
+      "colors": [
+        "WHITE",
+        "BLUE",
+        "BLACK"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-033",
+      "name": null,
+      "material": "Vacuum hot & cold",
+      "capacity": "750 ml",
+      "colors": [
+        "GREY",
+        "WHITE",
+        "BLACK",
+        "WINE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-034",
+      "name": null,
+      "material": "304 vaccum bottle",
+      "capacity": "500 ml",
+      "colors": [
+        "MATT BLACK",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-035",
+      "name": null,
+      "material": "vacuum Hot & cold",
+      "capacity": "750 ml",
+      "colors": [
+        "BLACK",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-036",
+      "name": null,
+      "material": "304 Vaccum insulated mug with locking cap",
+      "capacity": "500 Appx",
+      "colors": [
+        "MATT BLACK",
+        "white"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "8": [
+    {
+      "code": "XG-BT-037",
+      "name": null,
+      "material": "304. Vaccum insulated mug with handle",
+      "capacity": "500 Appx",
+      "colors": [
+        "MATT BLACK",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-038",
+      "name": null,
+      "material": "304. Vaccum insulated water bottles with stainless steel cup with lid",
+      "capacity": "500 Appx",
+      "colors": [
+        "MATT BLACK",
+        "SILVER"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-center",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-039",
+      "name": null,
+      "material": "304. Vaccum insulated mug with locking cap",
+      "capacity": "500 Appx",
+      "colors": [
+        "MATT BLACK",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-040",
+      "name": null,
+      "material": "304. Vaccum insulated mug with silicon strap to easily handling",
+      "capacity": "400 Appx",
+      "colors": [
+        "MATT BLACK",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-041",
+      "name": null,
+      "material": "304. Stainless steel vacuum insulated cup",
+      "capacity": "500 ml",
+      "colors": [
+        "BLUE",
+        "RED",
+        "SILVER",
+        "BLACK",
+        "WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-042",
+      "name": null,
+      "material": "304. Vaccum insulated mug with temperature display",
+      "capacity": "500 Appx",
+      "colors": [
+        "MATT BLACK",
+        "WHITE",
+        "RED",
+        "BLUE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "9": [
+    {
+      "code": "XG-BT-043",
+      "name": null,
+      "material": "hot & cold vacuum bottle",
+      "capacity": "800 ml",
+      "colors": [
+        "DARK BLUE",
+        "GREEN",
+        "BLACK",
+        "SKY BLUE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-044",
+      "name": null,
+      "material": "vacuum hot & cold",
+      "capacity": "1000 ml",
+      "colors": [
+        "BLUE",
+        "WHITE",
+        "BLACK"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-045",
+      "name": null,
+      "material": "304 stainless steel insulated water bottle with rope to handle easily",
+      "capacity": "500 ml",
+      "colors": [
+        "MATT BLACK",
+        "WHITE & BLUE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-046",
+      "name": null,
+      "material": "vacuum insulated bottle with silicon grip",
+      "capacity": "500 ml",
+      "colors": [
+        "BLUE",
+        "WHITE & BLACK"
+      ],
+      "description": "PACKING : color box",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-047",
+      "name": null,
+      "material": null,
+      "capacity": "500 ml",
+      "colors": [
+        "RED",
+        "BLUE",
+        "SKY BLUE",
+        "ORANGE",
+        "NAVY BLUE",
+        "BLACK & WHITE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-048",
+      "name": null,
+      "material": "304 steel double wall vacuum bottle with sipper cap",
+      "capacity": "500 ml",
+      "colors": [
+        "MATT BLACK",
+        "WHITE & BLUE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "10": [
+    {
+      "code": "XG-BT-049",
+      "name": null,
+      "material": "304 double wall insulated bottle with strap",
+      "capacity": "800 ml",
+      "colors": [
+        "MATT BLUE",
+        "WHITE",
+        "BLACK"
+      ],
+      "description": "Product code :-XG-043",
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-050",
+      "name": null,
+      "material": "Double wall 304 vacuum bottle with high lid quality",
+      "capacity": "850 ml & 500 ml",
+      "colors": [
+        "MATT BLACK"
+      ],
+      "description": "Product code: XG-044",
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-051",
+      "name": null,
+      "material": "double wall insulated",
+      "capacity": "750 ml",
+      "colors": [
+        "MATT BLACK"
+      ],
+      "description": "Product code: XG-051",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-052",
+      "name": null,
+      "material": "Double wall 304 vacuum bottle with high lid quality with ring to hang.",
+      "capacity": "500 ml",
+      "colors": [
+        "MATT BLACK",
+        "BLUE",
+        "WHITE"
+      ],
+      "description": "Product code :-XG-052; PACKING : color box",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-053",
+      "name": null,
+      "material": "Vacuum hot & cold",
+      "capacity": "1000 ml",
+      "colors": [
+        "BLACK",
+        "BLUE",
+        "GREEN",
+        "ORANGE"
+      ],
+      "description": "Product code : XG-053",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-054",
+      "name": null,
+      "material": "304 vacuum in vacuum insulation sports bottle with high lid quality",
+      "capacity": "500 ml",
+      "colors": [
+        "Matt black",
+        "white"
+      ],
+      "description": "Product code :-XG-054",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "11": [
+    {
+      "code": "XG-BT-055",
+      "name": null,
+      "material": "304 double wall insulated bottle with strap",
+      "capacity": "600 ml",
+      "colors": [
+        "MATT BLUE",
+        "WHITE",
+        "BLACK"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-056",
+      "name": null,
+      "material": "BOROSILICATE GLASS BOTTLE WITH silicone pouch",
+      "capacity": "1000 ml",
+      "colors": [
+        "GLASS"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-057",
+      "name": null,
+      "material": "HOT & cold vacuum bottle with transparent sipper cap",
+      "capacity": "500 ml",
+      "colors": [
+        "BLACK BLUE AND SILVER"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-058",
+      "name": null,
+      "material": "High quality bamboo thermos vacuum flask",
+      "capacity": "450 ml",
+      "colors": [
+        "MATT BLACK",
+        "BLUE & WHITE"
+      ],
+      "description": "PACKING : Steel grade",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-059",
+      "name": null,
+      "material": "VACUUM HOT & cold with straw sipper cap",
+      "capacity": "500 ml",
+      "colors": [
+        "Black Grey blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-060",
+      "name": null,
+      "material": "304 vacuum in vacuum insulation sports bottle with high lid quality",
+      "capacity": "500 ml",
+      "colors": [
+        "Matt black & white"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "12": [
+    {
+      "code": "XG-BT-061",
+      "name": null,
+      "material": "ECO FRIENDLY 500 ml vacuum insulated flask with tea cup",
+      "capacity": "500 ml",
+      "colors": [
+        "Matt black",
+        "white",
+        "blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-062",
+      "name": null,
+      "material": "ECO FRIENDLY 500 ml vacuum insulated flask with tea cup",
+      "capacity": "500 ml",
+      "colors": [
+        "Matt black",
+        "white",
+        "blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-063",
+      "name": null,
+      "material": "304 Double wall insulated thermos bamboo bottle",
+      "capacity": "500 ml",
+      "colors": [
+        "Bamboo natural"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-064",
+      "name": null,
+      "material": "304 vacuum insulated cola bottle",
+      "capacity": "500 ml",
+      "colors": [
+        "MATT BLACK",
+        "white"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-065",
+      "name": null,
+      "material": "3304 Double wall insulated thermos bamboo bottle with Temperature display",
+      "capacity": "500 ml",
+      "colors": [
+        "Bamboo natural"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-066",
+      "name": null,
+      "material": "eco friendly DOUBLE WALL INSULATED WOODEN FINISH WATER BOTTLE",
+      "capacity": "500 ml",
+      "colors": [
+        "Wooden design"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "13": [
+    {
+      "code": "XG-BT-067",
+      "name": null,
+      "material": "vacuum hot & cold bamboo finish",
+      "capacity": "500 ml",
+      "colors": [
+        "BAMBOO SPRAY"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-068",
+      "name": null,
+      "material": "304 Double wall sports water bottle easy carry outside",
+      "capacity": "600 ml",
+      "colors": [
+        "Matt black",
+        "blue",
+        "red & yellow"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-069",
+      "name": null,
+      "material": "304. Vacuum hot & cold",
+      "capacity": "500 ml",
+      "colors": [
+        "natural bamboo"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-070",
+      "name": null,
+      "material": "304 vacuum hot & cold with handle",
+      "capacity": "500 ml",
+      "colors": [
+        "Grey & black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-071",
+      "name": null,
+      "material": "304 vacuum hot & cold with handle",
+      "capacity": "850 ml",
+      "colors": [
+        "Black & white"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-072",
+      "name": null,
+      "material": "304 vacuum insulated bottle with bottom bamboo handle to carry flip open",
+      "capacity": "500 ml",
+      "colors": [
+        "BLACK RED & BLUE"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "14": [
+    {
+      "code": "XG-BT-073",
+      "name": null,
+      "material": "304 vacuum hot & cold with handle",
+      "capacity": "500 ml",
+      "colors": [
+        "Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-074",
+      "name": null,
+      "material": "304 vacuum hot & cold with handle y carry outside",
+      "capacity": "750 ml",
+      "colors": [
+        "Black",
+        "Green",
+        "dark blue & sky blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-075",
+      "name": null,
+      "material": "304 vacuum hot & cold with handle",
+      "capacity": "1000 ml",
+      "colors": [
+        "Dark blue & Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-center",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-076",
+      "name": null,
+      "material": "304 vacuum hot & cold with cork base",
+      "capacity": "500 ml",
+      "colors": [
+        "black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-077",
+      "name": null,
+      "material": "304 vacuum hot & cold with handle",
+      "capacity": "900 ml",
+      "colors": [
+        "Red",
+        "Black & dark blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-078",
+      "name": null,
+      "material": "VACUUM 304 Hot & cold",
+      "capacity": "600 ml",
+      "colors": [
+        "Matt black & white"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "15": [
+    {
+      "code": "XG-BT-079",
+      "name": null,
+      "material": "304 vacuum hot & cold with silicone handle",
+      "capacity": "750 ml",
+      "colors": [
+        "Brown",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-080",
+      "name": null,
+      "material": "304 vacuum hot & cold with handle y carry outside",
+      "capacity": "750 ml",
+      "colors": [
+        "Black",
+        "Green",
+        "Dark blue",
+        "Sky blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-081",
+      "name": null,
+      "material": "borosilicate glass with jute cover & bamboo lid",
+      "capacity": "500 ml",
+      "colors": [
+        "Natural glass"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-082",
+      "name": null,
+      "material": "borosilicate glass with silicon cover & bamboo lid",
+      "capacity": "550 ml",
+      "colors": [
+        "Natural glass with Green silicon bag"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-083",
+      "name": null,
+      "material": "borosilicate glass with silicone cover & bamboo lid",
+      "capacity": "600 ml",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red",
+        "Green",
+        "White",
+        "Orange"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-084",
+      "name": null,
+      "material": "vacuum hot & cold",
+      "capacity": "600 ml",
+      "colors": [
+        "GREEN",
+        "RED",
+        "BLUE",
+        "BLACK"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "16": [
+    {
+      "code": "XG-BT-085",
+      "name": null,
+      "material": "vacuum hot & cold",
+      "capacity": "850 ml",
+      "colors": [
+        "Green",
+        "Red",
+        "Blue",
+        "Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-086",
+      "name": null,
+      "material": "vacuum hot & cold",
+      "capacity": "600 ml",
+      "colors": [
+        "Black",
+        "Green",
+        "Dark Blue",
+        "Sky Blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-087",
+      "name": null,
+      "material": "vacuum hot & cold",
+      "capacity": "800 ml",
+      "colors": [
+        "Black",
+        "White",
+        "Blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-088",
+      "name": null,
+      "material": "vacuum hot & cold with silicon grip for holding",
+      "capacity": "800 ml",
+      "colors": [
+        "blk/yellow",
+        "blk/green",
+        "blk/orange",
+        "blk/red"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-BT-089",
+      "name": null,
+      "material": "vacuum hot & cold with silicon grip for holding",
+      "capacity": "600 ml",
+      "colors": [
+        "blk/yellow",
+        "blk/green",
+        "blk/orange",
+        "blk/ red"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "17": [
+    {
+      "code": "XG-MG-001",
+      "name": null,
+      "material": "stainless steel tumbler mug with slider top handle",
+      "capacity": "350 ml",
+      "colors": [
+        "WHITE",
+        "blue",
+        "Red"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-002",
+      "name": null,
+      "material": "STAINLESS STEEL TUMBLER MUG ECO FRIENDLY coffee cup with handle",
+      "capacity": "350 ml",
+      "colors": [
+        "Black",
+        "blue",
+        "Red"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-003",
+      "name": null,
+      "material": "304 double layer insulated travel vacuum mug",
+      "capacity": "500 ml",
+      "colors": [
+        "MATT BLACK",
+        "BLUE",
+        "white"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-004",
+      "name": null,
+      "material": "New Eco friendly Stainless Steel Bamboo travel mug with handle & proof lid",
+      "capacity": "350 ml",
+      "colors": [
+        "BAMBOO MUG"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-005",
+      "name": null,
+      "material": "stainless steel mug with handle & slide lid",
+      "capacity": "350 ml",
+      "colors": [
+        "Black",
+        "white",
+        "Silver"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-006",
+      "name": null,
+      "material": "Eco-friendly stainless steel vacuum Bamboo mug tumbler with handle",
+      "capacity": "450 ml",
+      "colors": [
+        "BAMBOO"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "18": [
+    {
+      "code": "XG-MG-007",
+      "name": "Thermo Tumbler",
+      "material": "Stainless steel Bamboo mug with flip cover lid",
+      "capacity": "450 ml",
+      "colors": [
+        "BAMBOO"
+      ],
+      "description": "Product code : XG-M07",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-008",
+      "name": null,
+      "material": "STAINLESS STEEL MUG OUTSIDE STEEL & inside steel",
+      "capacity": "400 ml",
+      "colors": [
+        "MATT BLACK"
+      ],
+      "description": "Product code : XG-M08",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-009",
+      "name": null,
+      "material": "steel",
+      "capacity": "400 ml",
+      "colors": [
+        "Blk",
+        "blue",
+        "white"
+      ],
+      "description": "PRODUCT CODE: XG- M09",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-010",
+      "name": null,
+      "material": "BPA FREE PLASTIC",
+      "capacity": "350 ml",
+      "colors": [
+        "Black",
+        "sky blue",
+        "red",
+        "yellow"
+      ],
+      "description": "Product code : XG-M10",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-011",
+      "name": "Thermos coffee mug",
+      "material": "304 steel with lock system",
+      "capacity": "450 ml Appx",
+      "colors": [
+        "BLACK",
+        "WHITE",
+        "Grey"
+      ],
+      "description": "Product code : XG-M11",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-012",
+      "name": "steel coffee mug",
+      "material": "inside steel 304",
+      "capacity": "400 ml Appx",
+      "colors": [
+        "BLACK",
+        "Grey"
+      ],
+      "description": "Product code : XG-M12",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "19": [
+    {
+      "code": "XG-MG-014",
+      "name": null,
+      "material": "Insulated coffee mug with 304 steel outside & inside anti slip mug",
+      "capacity": "350 ml Appx",
+      "colors": [
+        "BLACK",
+        "WHITE"
+      ],
+      "description": "Product code : XG-M14",
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-015",
+      "name": null,
+      "material": "304 stainless steel vacuum coffee mug",
+      "capacity": "350 ml",
+      "colors": [
+        "MATT BLACK",
+        "Blue",
+        "white"
+      ],
+      "description": "Product code : XG-M15",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-016",
+      "name": null,
+      "material": "304 double wall insulated vacuum mug with close lid",
+      "capacity": "350 ml",
+      "colors": [
+        "PURPLE",
+        "sea Green",
+        "darkblue",
+        "wine",
+        "white",
+        "black"
+      ],
+      "description": "Product code : XG-M16",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-017",
+      "name": null,
+      "material": "304 vacuum hot & cold",
+      "capacity": "350ml",
+      "colors": [
+        "Blk",
+        "light blue",
+        "light green",
+        "orange"
+      ],
+      "description": "Product Code: XG-M17",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-018",
+      "name": null,
+      "material": "304 double wall insulated vacuum coffe cup with slider cap",
+      "capacity": "320 ml",
+      "colors": [
+        "BLACK",
+        "white",
+        "purple"
+      ],
+      "description": "Product code : XG-M18",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "20": [
+    {
+      "code": "XG-MG-019",
+      "name": null,
+      "material": "304 double wall insulated vacuum coffe cup with temperature display",
+      "capacity": "460 ml",
+      "colors": [
+        "BLACK",
+        "BROWN",
+        "Green"
+      ],
+      "description": "Product code : XG-M19",
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-020",
+      "name": null,
+      "material": "304 double wall insulated vacuum coffe cup with temperature display",
+      "capacity": "400 ml",
+      "colors": [
+        "Blue",
+        "brown"
+      ],
+      "description": "Product code : XG-M20",
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-021",
+      "name": null,
+      "material": "STAINLESS STEEL COFFEE CUP WITH HANDLE & Lid",
+      "capacity": "200 ml",
+      "colors": [
+        "steel"
+      ],
+      "description": "Product code : XG-M21",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-022",
+      "name": null,
+      "material": "304 double wall insulated vacuum coffee Cup with handle",
+      "capacity": "400 ml",
+      "colors": [
+        "white & BLACK"
+      ],
+      "description": "Product code : XG-M22",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-023",
+      "name": null,
+      "material": "304 double wall insulated vacuum coffe cup with cork base & slider cap",
+      "capacity": "450 apx",
+      "colors": [
+        "matt black"
+      ],
+      "description": "Product code : XG-M23",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-024",
+      "name": null,
+      "material": "304 double wall insulated vacuum coffee cup",
+      "capacity": "400 ml",
+      "colors": [
+        "Black"
+      ],
+      "description": "Product code : XG-M24",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "21": [
+    {
+      "code": "XG-MG-025",
+      "name": null,
+      "material": "304 double wall insulated vacuum coffee cup with slider cap",
+      "capacity": "450 apx",
+      "colors": [
+        "matt black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-026",
+      "name": null,
+      "material": "304 double wall insulated vacuum coffee cup with spoon & handle",
+      "capacity": "450 apx",
+      "colors": [
+        "matt black & White"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-027",
+      "name": null,
+      "material": "304 double wall insulated vacuum coffee with flip cap",
+      "capacity": "450 apx",
+      "colors": [
+        "matt black & white"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-028",
+      "name": null,
+      "material": "304 double wall insulated vacuum coffee Cup with handle",
+      "capacity": "400 ml",
+      "colors": [
+        "white & BLACK"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-029",
+      "name": null,
+      "material": null,
+      "capacity": "350 ml",
+      "colors": [
+        "brown",
+        "peach",
+        "blue",
+        "red",
+        "maroon",
+        "black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-030",
+      "name": null,
+      "material": "304 double wall vacuum insulated coffee mug with temperature display",
+      "capacity": "510 ml",
+      "colors": [
+        "Matt black",
+        "white & blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "22": [
+    {
+      "code": "XG-MG-031",
+      "name": null,
+      "material": "304 double wall vacuum insulated coffee mug",
+      "capacity": "350 ml",
+      "colors": [
+        "Matt black",
+        "white",
+        "blue"
+      ],
+      "description": "304 double wall vacuum insulated coffee mug with flip cap open.",
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-032",
+      "name": null,
+      "material": "304 vacuum hot & cold",
+      "capacity": "510 ml",
+      "colors": [
+        "BLK",
+        "BLUE",
+        "WHITE"
+      ],
+      "description": "304 vacuum hot & cold mug",
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-033",
+      "name": null,
+      "material": "304 vacuum hot & cold",
+      "capacity": "510 ml",
+      "colors": [
+        "Blue",
+        "white",
+        "blk"
+      ],
+      "description": "304 vacuum hot & cold mug with lid",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-034",
+      "name": null,
+      "material": "Glass mug with bamboo lid & straw",
+      "capacity": "500 ml",
+      "colors": [
+        "GREY",
+        "BLUE",
+        "BLK",
+        "white"
+      ],
+      "description": "Glass mug with bamboo lid & straw",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-035",
+      "name": null,
+      "material": "ceramic mug with cork base",
+      "capacity": "350 ml",
+      "colors": [
+        "Matt black",
+        "white"
+      ],
+      "description": "ceramic mug with cork base",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-036",
+      "name": null,
+      "material": "304, Vaccum insulated mug with locking cap",
+      "capacity": "500 Appx",
+      "colors": [
+        "MATT BLACK",
+        "white"
+      ],
+      "description": "304, Vaccum insulated mug with locking cap",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "23": [
+    {
+      "code": "XG-MG-037",
+      "name": "304. Vaccum insulated mug with handle",
+      "material": "304 Stainless Steel",
+      "capacity": "500 Appx",
+      "colors": [
+        "MATT BLACK",
+        "white"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-038",
+      "name": "Spill free tumbler suction mug 304 vacuum insulated",
+      "material": "304 Stainless Steel",
+      "capacity": "450 ml",
+      "colors": [
+        "MATT BLACK",
+        "white"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-039",
+      "name": "304 double wall vacuum insulated coffee mug with handle",
+      "material": "304 Stainless Steel",
+      "capacity": "350 ml",
+      "colors": [
+        "Matt black",
+        "white",
+        "red"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-040",
+      "name": "BAMBOO INSULATED MUG WITH STEEL CAP",
+      "material": "Bamboo",
+      "capacity": "400 ml Appx",
+      "colors": [
+        "Bamboo"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-041",
+      "name": "304 vacuum hot & cold vacuum mug with strap",
+      "material": "304 Stainless Steel",
+      "capacity": "380 ml",
+      "colors": [
+        "Matt black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-042",
+      "name": "High quality 304 vacuum hot & cold",
+      "material": "304 Stainless Steel",
+      "capacity": "320 ml",
+      "colors": [
+        "WHITE BLK",
+        "red"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "24": [
+    {
+      "code": "XG-MG-044",
+      "name": null,
+      "material": "304 vacuum hot & cold insulated coffee mug easy flip to sip",
+      "capacity": "600 ml",
+      "colors": [
+        "Matt black",
+        "white"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-045",
+      "name": null,
+      "material": "304 vacuum hot & cold. Dual lid sipper",
+      "capacity": "900 ml",
+      "colors": [
+        "Green sky blue",
+        "Dark blue",
+        "black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-046",
+      "name": null,
+      "material": "304 vacuum hot & cold with cork base with lid",
+      "capacity": "500 ml",
+      "colors": [
+        "Matt black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MG-048",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": null,
+      "data_status": "NOT_AVAILABLE"
+    }
+  ],
+  "25": [
+    {
+      "code": "XG-EL-001",
+      "name": "XG-T1",
+      "material": null,
+      "capacity": "100Cm",
+      "colors": [
+        "BLACK",
+        "white"
+      ],
+      "description": "RECTRACTABLE USB CHARGING CABLE 100Cm 4in1 FSC BAMBOO FAST CHARGING cable",
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-002",
+      "name": "XG-T2",
+      "material": "PVC",
+      "capacity": null,
+      "colors": [
+        "Black",
+        "blue",
+        "Red"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-003",
+      "name": "XG-M03",
+      "material": "mdf+pvc",
+      "capacity": null,
+      "colors": [
+        "Black White",
+        "Brown Silver"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-004",
+      "name": "XG-14",
+      "material": "LCD Desk Alarm clock White withCalendar and Digital Temperature Humidity Modern home Office Watch Battery Operated",
+      "capacity": null,
+      "colors": [
+        "BAMBOO MUG"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-005",
+      "name": "XG-T5",
+      "material": "Cheap Night Light Pen Stand with Speaker LED Backlight Smart Desk lamp google smart speaker LED Light Music computer speaker",
+      "capacity": null,
+      "colors": [
+        "Blue",
+        "White",
+        "Orange"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-006",
+      "name": "XG-T6",
+      "material": "Portable USB Cable Card USB Adapter Kit Storage Set Multi Charging Cable Case USB-C Cable/Light/Micro-USB Adapter for travel",
+      "capacity": null,
+      "colors": [
+        "Black White"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "26": [
+    {
+      "code": "XG-EL-007",
+      "name": "XG-T7",
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "BLACK",
+        "white"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-008",
+      "name": "XG-T8",
+      "material": "Plastic",
+      "capacity": "1GB 2GB 4GB 8GB 16GB 32GB 64GB",
+      "colors": [
+        "Black",
+        "blue",
+        "Red"
+      ],
+      "description": "Custom Logo Free Sample USB Flash Drive Key USB Credit Card",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-009",
+      "name": "XG-T9",
+      "material": "PVC",
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Red",
+        "Blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-010",
+      "name": "XG-110",
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "White",
+        "Green"
+      ],
+      "description": "4in1 LED emergency camping tent reading lamp USB rechargeable lantern multifunctional desk lamp",
+      "price_inr": null,
+      "image_region": "bottom-center",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-011",
+      "name": "XG-T11",
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "description": "Trending 2024 New Electronic Gadgets Mini Party Speaker Sound Bar with Phone Holder Alarm Clock Bass Subwoofer Portable Speakers",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-012",
+      "name": "XG-T12",
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "description": "Multi-function Custom Logo Alarm Clock Desktop Night Light Intelligence Quality 3-in-1 Wireless Charger Fast Charging Station",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "27": [
+    {
+      "code": "XG-EL-013",
+      "name": "Ready to Ship New product ideas 2024 3 in 1 Wireless charger HD BT Speaker Phone charger With LED Warm Light Portable Stereo sound Speaker",
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Gray Golden"
+      ],
+      "description": "Ready to Ship New product ideas 2024 3 in 1 Wireless charger HD BT Speaker Phone charger With LED Warm Light Portable Stereo sound Speaker",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-014",
+      "name": "RECHARGEABLE TABLE LAMP WITH MOBILE HOLDER",
+      "material": "PC",
+      "capacity": null,
+      "colors": [
+        "white"
+      ],
+      "description": "RECHARGEABLE TABLE LAMP WITH MOBILE HOLDER",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-015",
+      "name": "Mushroom bed lamp with touch",
+      "material": "ABS",
+      "capacity": null,
+      "colors": [
+        "milky white"
+      ],
+      "description": "Sensor touch USB RECHARGEABLE LAMP\nPacking : color box",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-016",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Gray"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-center",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-017",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-EL-018",
+      "name": "S23 High Quality FM Radio Wooden Wireless Speakers Home Desktop Outdoor Portable Bluetooth Speaker",
+      "material": "S23 High Quality FM Radio Wooden",
+      "capacity": null,
+      "colors": [
+        "Brown"
+      ],
+      "description": "S23 High Quality FM Radio Wooden Wireless Speakers Home Desktop Outdoor Portable Bluetooth Speaker",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "28": [
+    {
+      "code": "XG-EL-019",
+      "name": "Bamboo led digital clock",
+      "material": "Bamboo",
+      "capacity": null,
+      "colors": [
+        "Bamboo"
+      ],
+      "description": "Product code : XG-T17",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-020",
+      "name": "Digital bag Multi-function data line charger digital products organizer travel bag travel accessories charger cable power bank organizer bag pouch",
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Gray",
+        "Blue"
+      ],
+      "description": "Product code : XG-T19\nDescription : 2023 hot Digital bag Multi-function data line charger digital products organizer travel bag travel accessories charger cable power bank organizer bag pouch",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-021",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Dark Blue",
+        "Grey"
+      ],
+      "description": "Product code : XG-121\nFeature : Elestic Band Safe, Velcro design",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-022",
+      "name": null,
+      "material": "Waterproof Fabric, Nylon Zipper",
+      "capacity": "24CM x 17CM",
+      "colors": [
+        "BLACK",
+        "dark blue",
+        "grey"
+      ],
+      "description": "Product code : XG-122\nFeature : Waterproof Fabric, Nylon Zipper",
+      "price_inr": null,
+      "image_region": "bottom-center",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-023",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Color white",
+        "grey"
+      ],
+      "description": "Product code : XG-T23",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-024",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Gray",
+        "Blue"
+      ],
+      "description": "Product code : XG-T24",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "29": [
+    {
+      "code": "XG-EL-025",
+      "name": "Follow Light",
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black White"
+      ],
+      "description": "Product code : XG-T25\nDiscription : Follow Light",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-026",
+      "name": "Travel Charger Multiple Plug Adapter",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Product code : XG-T26\nDescription: Travel Charger Multiple Plug Adapter\nPackge. Color Box",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-027",
+      "name": "Multi Functional Compact cable card set",
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black"
+      ],
+      "description": "Product code : XG-T27\nFeature: Multi Functional Compact cable card set",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-028",
+      "name": "Sample rebates Portable Usb Coffee Maker Machine Capsules Press Small Coffee Maker For Outdoor",
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "BLACK",
+        "dark blue",
+        "grey"
+      ],
+      "description": "Product code : XG-T28\nFeature : Sample rebates Portable Usb Coffee Maker Machine Capsules Press Small Coffee Maker For Outdoor",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-029",
+      "name": "Heating Flectric Mug",
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Color white",
+        "Black"
+      ],
+      "description": "Product code : XG-T29\nDiscription : Heating Flectric Mug",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-030",
+      "name": "Heating Electric Mug",
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black Gray Blue"
+      ],
+      "description": "Product code : XG-T30\nDiscription : Heating Electric Mug",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "30": [
+    {
+      "code": "XG-EL-031",
+      "name": "Bamboo led digital clock",
+      "material": "Bamboo",
+      "capacity": null,
+      "colors": [
+        "Bamboo"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-032",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Gray",
+        "Blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-033",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Gray",
+        "Blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-034",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Gray",
+        "Blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-035",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Color white",
+        "grey"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-036",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Gray",
+        "Blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "31": [
+    {
+      "code": "XG-EL-037",
+      "name": null,
+      "material": "Bamboo led",
+      "capacity": null,
+      "colors": [
+        "Bamboo"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-038",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Gray",
+        "Blue"
+      ],
+      "description": "Universal 3 in 1 retractable charging cable Usb Charging Cable Flexible data Cable for phone/Type C/Android",
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-039",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Dark Blue",
+        "Grey"
+      ],
+      "description": "100 Year Calender, Alarm with snooze",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-040",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Dark Blue",
+        "Grey"
+      ],
+      "description": "Mechanical Flip Clock, Retro Design Auto Desktop, Battery Powered Internal Gear Operated Vintage for Bedroom, Living Room, Night",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-041",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "White",
+        "Grey"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-042",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "Black",
+        "Gray",
+        "Blue"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "32": [
+    {
+      "code": "XG-EL-043",
+      "name": null,
+      "material": "Mobile stand PVC",
+      "capacity": null,
+      "colors": [
+        "Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-EL-044",
+      "name": null,
+      "material": "Mobile stand PVC",
+      "capacity": null,
+      "colors": [
+        "Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "33": [
+    {
+      "code": "XG-MP-001",
+      "name": "MOBILE STYLUS",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "description": "Engraving & print possible, Style type : TWIST, MOBILE STYLUS",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-003",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "White",
+        "Gold",
+        "Blue"
+      ],
+      "description": "Engraving & print possible, Style type : twist",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-004",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "White"
+      ],
+      "description": "Engraving & print possible, Style type : twist",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-005",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Gold",
+        "Blue",
+        "Grey",
+        "Brown",
+        "White"
+      ],
+      "description": "Engraving & print possible, Style type : twist",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-006",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Gold",
+        "Blue",
+        "White",
+        "Grey",
+        "Brown"
+      ],
+      "description": "Engraving & print possible, Style type : twist",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "34": [
+    {
+      "code": "XG-MP-007",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Blk"
+      ],
+      "description": "Product code : XG-MP-7\nENGRAVING & printing possible\nStyle type : twist",
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-009",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Blk",
+        "orange",
+        "blue",
+        "red"
+      ],
+      "description": "Product code : XG-MP-9\nENGRAVING & printing possible\nStyle type : twist",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-010",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Blk",
+        "blue",
+        "white",
+        "red",
+        "grey"
+      ],
+      "description": "Product code : XG-MP-10\nENGRAVING & printing possible\nStyle type : click",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-011",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Blk",
+        "blue",
+        "red"
+      ],
+      "description": "Product code : XG-MP-11\nENGRAVING & printing possible\nStyle type : click",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-012",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Blk with silver clip"
+      ],
+      "description": "Product code : XG-MP-12\nENGRAVING & printing possible\nStyle type : twist",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "35": [
+    {
+      "code": "XG-MP-013",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Blk",
+        "grey",
+        "Blue",
+        "red",
+        "orange",
+        "green"
+      ],
+      "description": [
+        "Product code : XG-MP-13",
+        "METAL BALL PEN",
+        "ENGRAVING & printing possible",
+        "Style type : CLICK",
+        "Color. Blk-grey Blue red orange green"
+      ],
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-015",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Blk",
+        "blue",
+        "white",
+        "red"
+      ],
+      "description": [
+        "Product code : XG-MP-15",
+        "METAL BALL PEN",
+        "ENGRAVING & printing possible",
+        "Style type : twist",
+        "Color. Blk blue white & red"
+      ],
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-016",
+      "name": "Premium Roller pen",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Blk"
+      ],
+      "description": [
+        "Product code : XG-MP-16",
+        "Premium Roller pen",
+        "ENGRAVING & printing possible",
+        "Style type : cap",
+        "Color. Blk with gold clip"
+      ],
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-017",
+      "name": "Premium ball pen",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Blk"
+      ],
+      "description": [
+        "Product code : XG-MP-17",
+        "Premium ball pen",
+        "Magnet closing pen",
+        "ENGRAVING & printing possible",
+        "Style type : cap",
+        "Color. Blk"
+      ],
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-018",
+      "name": "PREMIUM ROLLER PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "WHITE",
+        "GOLD",
+        "SILVER"
+      ],
+      "description": [
+        "Product code : XG-MP-18",
+        "PREMIUM ROLLER PEN",
+        "ENGRAVING & printing possible",
+        "Style type : CAP",
+        "Color. WHITE GOLD SILVER"
+      ],
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "36": [
+    {
+      "code": "XG-MP-019",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Blk",
+        "grey",
+        "Blue",
+        "red",
+        "orange",
+        "green"
+      ],
+      "description": "Product code : XG-MP-19\nMETAL BALL PEN\nENGRAVING & printing possible\nStyle type : CLICK\nColor : Blk-grey Blue red orange green",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-020",
+      "name": "METAL BALL PEN",
+      "material": "Metal",
+      "capacity": null,
+      "colors": [
+        "Blk"
+      ],
+      "description": "Product code : XG-MP-20\nMETAL BALL PEN\nENGRAVING & printing possible\nStyle type : twist\nColor : Blk",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-MP-021",
+      "name": "BAMBOO BALL PEN",
+      "material": "Bamboo",
+      "capacity": null,
+      "colors": [
+        "NATURAL BAMBOO"
+      ],
+      "description": "Product code : XG-MP-21\nBAMBOO BALL PEN\nENGRAVING & printing possible\nStyle type : CLICK\nColor : NATURAL BAMBOO",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "37": [
+    {
+      "code": "XG-NB-001",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-002",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-003",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-004",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-005",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-006",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "38": [
+    {
+      "code": "XG-NB-007",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-008",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-009",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-010",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-011",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-012",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "39": [
+    {
+      "code": "XG-NB-013",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-014",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-015",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-016",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-017",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-018",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "40": [
+    {
+      "code": "XG-NB-019",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-020",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-021",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-022",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-023",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-024",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5, PAGES: 200, TYPE: RULED",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "41": [
+    {
+      "code": "XG-NB-025",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-NB-026",
+      "name": null,
+      "material": null,
+      "capacity": "200 Pages (A5)",
+      "colors": null,
+      "description": "SIZE: A5\nPAGES: 200\nTYPE: RULED",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "42": [
+    {
+      "code": "XG-ID-001",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-003",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-004",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-005",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-006",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "NOT_AVAILABLE"
+    }
+  ],
+  "43": [
+    {
+      "code": "XG-ID-007",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-008",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-009",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "center-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-010",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "center-right",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-011",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-012",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "NOT_AVAILABLE"
+    }
+  ],
+  "44": [
+    {
+      "code": "XG-ID-014",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-015",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-016",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-017",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-018",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "NOT_AVAILABLE"
+    }
+  ],
+  "45": [
+    {
+      "code": "XG-ID-019",
+      "name": "Acrylic Slide Card Holder",
+      "material": "Acrylic",
+      "capacity": null,
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-ID-020",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-ID-021",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-ID-022",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-ID-023",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-ID-024",
+      "name": "PS Slide Card Holder",
+      "material": "PS",
+      "capacity": null,
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "46": [
+    {
+      "code": "XG-ID-025",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-026",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-027",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-028",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-029",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-030",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "NOT_AVAILABLE"
+    }
+  ],
+  "47": [
+    {
+      "code": "XG-ID-031",
+      "name": "CARD CASE",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-ID-032",
+      "name": "CARD CASE",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-ID-033",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-ID-034",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-ID-035",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-ID-036",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "48": [
+    {
+      "code": "XG-ID-037",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-038",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-039",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-040",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-041",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-042",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "NOT_AVAILABLE"
+    }
+  ],
+  "49": [
+    {
+      "code": "XG-ID-043",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-044",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-045",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-046",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-047",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "NOT_AVAILABLE"
+    },
+    {
+      "code": "XG-ID-048",
+      "name": null,
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": null,
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "NOT_AVAILABLE"
+    }
+  ],
+  "56": [
+    {
+      "code": "XG-GS-037",
+      "name": "2 in 1 Gift Set",
+      "material": null,
+      "capacity": "200 pages",
+      "colors": null,
+      "description": "Dairy 200 pages + Metal Pen",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "61": [
+    {
+      "code": "XG-GS-059",
+      "name": "2 in 1 Gift Set",
+      "material": null,
+      "capacity": "200 pages",
+      "colors": null,
+      "description": [
+        "Dairy 200 pages",
+        "Metal Pen"
+      ],
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "62": [
+    {
+      "code": "XG-GS-061",
+      "name": "2 in 1 Gift Set",
+      "material": null,
+      "capacity": "200 pages",
+      "colors": null,
+      "description": [
+        "2 in 1 Gift Set",
+        "Dairy 200 pages",
+        "Metal Pen"
+      ],
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-062",
+      "name": "2 in 1 Gift Set",
+      "material": null,
+      "capacity": "200 pages",
+      "colors": null,
+      "description": [
+        "2 in 1 Gift Set",
+        "Dairy 200 pages",
+        "Metal Pen"
+      ],
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-065",
+      "name": "2 in 1 Gift Set",
+      "material": null,
+      "capacity": "200 pages",
+      "colors": null,
+      "description": [
+        "2 in 1 Gift Set",
+        "Dairy 200 pages",
+        "Metal Pen"
+      ],
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "73": [
+    {
+      "code": "XG-BT-123",
+      "name": "3 in 1 Gift Set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal Bottle",
+      "price_inr": null,
+      "image_region": "top-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "74": [
+    {
+      "code": "XG-GS-133",
+      "name": "3 in 1 Gift Set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "2 Mugs + Bottle",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "75": [
+    {
+      "code": "XG-GS-134",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-135",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-136",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-137",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-138",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-139",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "76": [
+    {
+      "code": "XG-GS-140",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-141",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-142",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-143",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-144",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-145",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "77": [
+    {
+      "code": "XG-GS-146",
+      "name": "4 in 1 Gift Set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-147",
+      "name": "4 in 1 Gift Set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-148",
+      "name": "4 in 1 Gift Set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-149",
+      "name": "4 in 1 Gift Set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-center",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-150",
+      "name": "4 in 1 Gift Set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-151",
+      "name": "4 in 1 Gift Set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "78": [
+    {
+      "code": "XG-GS-152",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-153",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-154",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-155",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-156",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-157",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen + Dairy + Metal keychain + Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ],
+  "79": [
+    {
+      "code": "XG-GS-158",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen, Dairy, Metal keychain, Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-159",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen, Dairy, Metal keychain, Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-160",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen, Dairy, Metal keychain, Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-161",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen, Dairy, Metal keychain, Metal visiting card",
+      "price_inr": null,
+      "image_region": "middle-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-162",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen, Dairy, Metal keychain, Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-left",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    },
+    {
+      "code": "XG-GS-163",
+      "name": "4 in 1 Gift set",
+      "material": null,
+      "capacity": null,
+      "colors": null,
+      "description": "Metal pen, Dairy, Metal keychain, Metal visiting card",
+      "price_inr": null,
+      "image_region": "bottom-right",
+      "data_status": "VERIFIED_FROM_CATALOGUE"
+    }
+  ]
+}
