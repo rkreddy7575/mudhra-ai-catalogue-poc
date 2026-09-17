@@ -16,7 +16,10 @@ let _gemini: GoogleGenAI | null = null;
  * Defaults to 'gemini-3.5-flash' if not explicitly set.
  */
 export function getGeminiModel(): string {
-  const model = process.env.GEMINI_MODEL?.trim() || 'gemini-3.5-flash';
+  const model = process.env.GEMINI_MODEL?.trim();
+  if (!model || model === 'gemini-2.5-flash' || model.includes('2.5')) {
+    return 'gemini-3.5-flash';
+  }
   return model;
 }
 

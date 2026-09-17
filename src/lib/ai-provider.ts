@@ -183,13 +183,16 @@ export class GeminiProvider implements AIProvider {
         };
       } catch (err: unknown) {
         const errMsg = String(err);
-        const isRateLimit =
+        const isRecoverable =
           errMsg.includes('429') ||
           errMsg.includes('RESOURCE_EXHAUSTED') ||
-          errMsg.includes('Quota exceeded');
+          errMsg.includes('Quota exceeded') ||
+          errMsg.includes('404') ||
+          errMsg.includes('NOT_FOUND') ||
+          errMsg.includes('no longer available');
 
-        if (isRateLimit && model !== modelsToTry[modelsToTry.length - 1]) {
-          console.warn(`[GeminiProvider] Model ${model} reached rate limit. Falling back to alternative model...`);
+        if (isRecoverable && model !== modelsToTry[modelsToTry.length - 1]) {
+          console.warn(`[GeminiProvider] Model ${model} failed (${errMsg}). Falling back to next model...`);
           lastError = err;
           continue;
         }
